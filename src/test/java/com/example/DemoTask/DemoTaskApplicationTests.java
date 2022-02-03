@@ -6,7 +6,7 @@ import org.springframework.test.context.ContextConfiguration;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-@SpringBootTest
+@SpringBootTest(classes=DemoTaskApplication.class)
 class DemoTaskApplicationTests {
 
 	private Calculator c=new Calculator();
