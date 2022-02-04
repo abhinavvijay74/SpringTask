@@ -1,13 +1,13 @@
-**project title:SpringTask**
+project title:SpringTask
 
 
 
-###RestApi creation
-*Description*:
+RestApi creation
+Description
 it takes  name and displays message in the project 
 package:RestApi
 
-###Spelpractical
-*Description*:
+Spelpractical
+Description
 the demotask shows how to use spring expression language
 package:DemoTask
